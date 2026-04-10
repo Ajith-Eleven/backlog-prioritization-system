@@ -88,3 +88,10 @@ SQL scripts are available in the `/sql` folder:
 ## 📊 Insights
 
 Detailed analysis and product insights can be found in `insights.md`
+
+## 📊 Outputs
+
+Sample outputs are available in `/outputs`:
+- Priority scores
+- Priority labels
+- Risk detection results
