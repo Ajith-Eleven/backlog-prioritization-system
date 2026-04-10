@@ -73,3 +73,14 @@ High-priority features showed the highest adoption rates but were also the most 
 ## 📌 Note
 
 This is a prototype / case study created to demonstrate product thinking and data-driven decision making.
+
+## 📊 Sample Data
+
+A sample dataset is included in `/data/sample_backlog.csv` to simulate real-world backlog scenarios.
+
+## 🧮 SQL Logic
+
+SQL scripts are available in the `/sql` folder:
+- compute_priority.sql → scoring logic
+- priority_labeling.sql → classification
+- risk_and_kpis.sql → risk detection
