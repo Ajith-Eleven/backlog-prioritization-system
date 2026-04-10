@@ -62,3 +62,12 @@ This system demonstrates how:
 - Data can replace subjective decision-making
 - Simple scoring can improve execution
 - Insights can drive better product strategy
+
+
+
+## 📊 Observations from Query Results
+
+- Several high-priority items were flagged as at risk, indicating delays in execution
+- Enterprise-driven features dominated high-priority categories
+- High effort reduced priority scores for some impactful features
+- Risk detection improved visibility into backlog health
