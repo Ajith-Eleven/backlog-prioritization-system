@@ -84,3 +84,7 @@ SQL scripts are available in the `/sql` folder:
 - compute_priority.sql → scoring logic
 - priority_labeling.sql → classification
 - risk_and_kpis.sql → risk detection
+
+## 📊 Insights
+
+Detailed analysis and product insights can be found in `insights.md`
